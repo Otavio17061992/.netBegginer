@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcademiaDotNet", "AcademiaDotNet\AcademiaDotNet.csproj", "{6852DC70-3375-49E2-9822-094F0EB2BBDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumDias", "EnumDias\EnumDias.csproj", "{F6EC1550-EC53-43EA-A9C3-DD3D45070398}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "estruturaDeControle", "estruturaDeControle\estruturaDeControle.csproj", "{0D500282-3F2B-41E2-8D8C-99F9F5A7E723}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstruturaIfElse", "EstruturaIfElse\EstruturaIfElse.csproj", "{F63EF4AA-3890-451A-8C21-ABF8D5009E4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstruturaForEach", "EstruturaForEach\EstruturaForEach.csproj", "{01A9AF18-35F6-4BAC-BC9F-D67029631164}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstruturaSwitch", "EstruturaSwitch\EstruturaSwitch.csproj", "{E1044E46-DCAC-43B3-B5B9-F106503B611E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6852DC70-3375-49E2-9822-094F0EB2BBDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6852DC70-3375-49E2-9822-094F0EB2BBDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6852DC70-3375-49E2-9822-094F0EB2BBDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6852DC70-3375-49E2-9822-094F0EB2BBDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6EC1550-EC53-43EA-A9C3-DD3D45070398}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6EC1550-EC53-43EA-A9C3-DD3D45070398}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6EC1550-EC53-43EA-A9C3-DD3D45070398}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6EC1550-EC53-43EA-A9C3-DD3D45070398}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D500282-3F2B-41E2-8D8C-99F9F5A7E723}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D500282-3F2B-41E2-8D8C-99F9F5A7E723}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D500282-3F2B-41E2-8D8C-99F9F5A7E723}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D500282-3F2B-41E2-8D8C-99F9F5A7E723}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F63EF4AA-3890-451A-8C21-ABF8D5009E4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F63EF4AA-3890-451A-8C21-ABF8D5009E4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F63EF4AA-3890-451A-8C21-ABF8D5009E4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F63EF4AA-3890-451A-8C21-ABF8D5009E4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01A9AF18-35F6-4BAC-BC9F-D67029631164}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01A9AF18-35F6-4BAC-BC9F-D67029631164}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01A9AF18-35F6-4BAC-BC9F-D67029631164}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01A9AF18-35F6-4BAC-BC9F-D67029631164}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1044E46-DCAC-43B3-B5B9-F106503B611E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1044E46-DCAC-43B3-B5B9-F106503B611E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1044E46-DCAC-43B3-B5B9-F106503B611E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1044E46-DCAC-43B3-B5B9-F106503B611E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC7418A3-534B-4003-8020-047AE6CDEB53}
+	EndGlobalSection
+EndGlobal
